@@ -1,0 +1,34 @@
+Date,Temperature,Humidity,Rainfall,Wind Speed,Weather,,,
+01-11-2026,29,75,2,12,Cloudy,,,
+02-11-2026,30,70,0,10,Sunny,,Analysis,Result
+03-11-2026,28,82,5,15,Rainy,,Average Temperature,28.85714286
+04-11-2026,29,78,1,11,Cloudy,,Maximum Temperature,31
+05-11-2026,31,65,0,9,Sunny,,Minimum Temperature,27
+06-11-2026,27,85,8,18,Rainy,,Average Humidity,76.42857143
+07-11-2026,28,80,3,14,Cloudy,,Total Rainfall,19
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,Date,Rainfall,,
+,,,,,01-11-2026,2,,
+,,,,,02-11-2026,0,,
+,,,,,03-11-2026,5,,
+,,,,,04-11-2026,1,,
+,,,,,05-11-2026,0,,
+,,,,,06-11-2026,8,,
+,,,,,07-11-2026,3,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,Insight,Result,,,,,,
+,Highest Temperature,31°C,,,,,,
+,Lowest Temperature,27°C,,,,,,
+,Average Temperature,28.86°C,,,,,,
+,Average Humidity,76.43%,,,,,,
+,Total Rainfall,19 mm,,,,,,
+,Highest Rainfall,8 mm,,,,,,
+,Conclusion,Warm week with occasional rainfall,,,,,,
